@@ -1,8 +1,11 @@
-<!-- app/views/creatures/index.html.erb -->
-
-<% @creatures.each do |creature| %>
-  <p>
-    <strong>Name:</strong> <%= creature.name %><br>
-    <strong>Description:</strong> <%= creature.description %>
-  </p>
-<% end %>
+<h1>Creature Index!<h1>
+<ul>
+	<% @creatures.each do |creature| %>
+	  <li>
+	   <%= link_to creature do %>
+		    <strong>Name:</strong> <%= creature.name %><br>
+		    <strong>Description:</strong> <%= creature.description %>
+	   <% end %>
+	  </li>
+	<% end %>
+</ul>
