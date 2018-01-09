@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A 3-5 sentences reflection on how this went for you
 
-Things you may want to cover:
+  This Project pushed me to get familiar with Ruby-Rails
 
-* Ruby version
+  It really took me much more time to figure out the method of it, I get faster for each time next
 
-* System dependencies
+  The both creat and update are related on two Route
 
-* Configuration
+A tip for others to help conquer some part of the app that used to trip you up
 
-* Database creation
+  Be carefull of the Syntax Err, do not forget the comma at route's file
 
-* Database initialization
+The times for your first and fourth runs
 
-* How to run the test suite
+  Two and half hours for first time, Half hour for four time
 
-* Services (job queues, cache servers, search engines, etc.)
+Please record your best time in this anonymous form (And take a look at the responses!)
+  
+  Half Hour!
 
-* Deployment instructions
 
-* ...
